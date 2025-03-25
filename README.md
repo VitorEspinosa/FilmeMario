@@ -30,7 +30,7 @@ Esse é um site inspirado no filme do mario onde se trata de uma ladding page de
 1. Clone o repositório:
 
 ```bash
-https://github.com/VitorEspinosa/FilmeMario
+https://github.com/VitorEspinosa/FilmeMario.git
 ```
 
 2. Rodar o projeto
